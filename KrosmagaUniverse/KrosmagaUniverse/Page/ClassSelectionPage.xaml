@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView"
+              xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+             Title="Les Classes"
+             x:Class="KrosmagaUniverse.Page.ClassSelectionPage">
+
+  <flv:FlowListView SeparatorVisibility="None" HasUnevenRows="true" FlowColumnCount="2"
+   FlowColumnMinWidth="110"  FlowItemsSource="{Binding ClassList}" FlowLastTappedItem="{Binding ClassDeckBuilderSelected}">
+
+    <flv:FlowListView.FlowColumnTemplate>
+      <DataTemplate>
+        <Grid Padding="1">
+           <Grid.ColumnDefinitions>
+            <ColumnDefinition>*</ColumnDefinition>
+    
+          </Grid.ColumnDefinitions>
+          <Grid.RowDefinitions>
+          
+            <RowDefinition>*</RowDefinition>
+          </Grid.RowDefinitions>
+        
+          <ffimageloading:CachedImage HeightRequest="100" Aspect="AspectFill"
+                DownsampleUseDipUnits="false"
+                LoadingPlaceholder="icon.png" ErrorPlaceholder="splash.png"
+                Source="{Binding ClassImgPath}" 
+          />
+     <!--<Image Source="{Binding ImagePath}"   Grid.Row="0"  Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="2" Aspect="AspectFill"            />-->
+            
+          <Label x:Name="ClassName" HorizontalOptions="Fill" HorizontalTextAlignment="Center" VerticalOptions="End"
+               BackgroundColor="Black" TextColor="White" Opacity="0.7" Text="{Binding ClassName}" />
+         
+         
+        </Grid>
+      </DataTemplate>
+    </flv:FlowListView.FlowColumnTemplate>
+  </flv:FlowListView>
+</ContentPage>
