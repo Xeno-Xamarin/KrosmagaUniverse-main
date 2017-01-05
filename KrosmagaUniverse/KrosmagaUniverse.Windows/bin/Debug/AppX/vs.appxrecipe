@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-VHOQHOGC4VQ</Machine>
+    <WindowsUser>JM-PC-W10</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>85930d70-750c-41a6-9b95-03faaed4159c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=joaqu</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>AA990D87905BC1D9BD0C2267BFD40A440D4A60120339F58A53F8D9606666A8C1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85930d70-750c-41a6-9b95-03faaed4159c_1.0.0.0_neutral__nh7s0b45jarrj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85930d70-750c-41a6-9b95-03faaed4159c_nh7s0b45jarrj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85930d70-750c-41a6-9b95-03faaed4159c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=joaqu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-04T22:21:08.474</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\bin\Debug\KrosmagaUniverse.Windows.exe">
+      <PackagePath>KrosmagaUniverse.Windows.exe</PackagePath>
+      <Modified>2017-01-04T22:21:06.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\DLToolkit.Forms.Controls.FlowListView.2.0.2\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\DLToolkit.Forms.Controls.FlowListView.dll">
+      <PackagePath>DLToolkit.Forms.Controls.FlowListView.dll</PackagePath>
+      <Modified>2016-11-07T19:02:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.FFImageLoading.2.2.4\lib\portable-netcore45+wpa81\FFImageLoading.dll">
+      <PackagePath>FFImageLoading.dll</PackagePath>
+      <Modified>2016-11-07T06:04:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.FFImageLoading.Forms.2.2.3\lib\portable-netcore45+wpa81\FFImageLoading.Forms.dll">
+      <PackagePath>FFImageLoading.Forms.dll</PackagePath>
+      <Modified>2016-11-04T04:05:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.FFImageLoading.Forms.2.2.3\lib\portable-netcore45+wpa81\FFImageLoading.Forms.WinRT.dll">
+      <PackagePath>FFImageLoading.Forms.WinRT.dll</PackagePath>
+      <Modified>2016-11-04T04:05:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.FFImageLoading.2.2.4\lib\portable-netcore45+wpa81\FFImageLoading.Platform.dll">
+      <PackagePath>FFImageLoading.Platform.dll</PackagePath>
+      <Modified>2016-11-07T06:04:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.FFImageLoading.Transformations.2.2.4\lib\portable-netcore45+wpa81\FFImageLoading.Transformations.dll">
+      <PackagePath>FFImageLoading.Transformations.dll</PackagePath>
+      <Modified>2016-11-07T06:04:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\FreshMvvm.2.2.0\lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\FreshIOC.dll">
+      <PackagePath>FreshIOC.dll</PackagePath>
+      <Modified>1979-12-31T23:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\FreshMvvm.2.2.0\lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\FreshMvvm.dll">
+      <PackagePath>FreshMvvm.dll</PackagePath>
+      <Modified>1979-12-31T23:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse\bin\Debug\KrosmagaUniverse.dll">
+      <PackagePath>KrosmagaUniverse.dll</PackagePath>
+      <Modified>2017-01-04T22:21:05.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\reactiveui-core.6.5.2\lib\Win8\ReactiveUI.dll">
+      <PackagePath>ReactiveUI.dll</PackagePath>
+      <Modified>2016-09-02T16:31:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Splat.1.4.0\lib\NetCore45\Splat.dll">
+      <PackagePath>Splat.dll</PackagePath>
+      <Modified>2014-07-25T07:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\SQLite.Net.Core-PCL.3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+      <Modified>2015-11-06T16:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\SQLite.Net-PCL.3.1.1\lib\Windows8\SQLite.Net.Platform.WinRT.dll">
+      <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-06T16:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-02-19T19:10:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-02-19T19:10:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Rx-Core.2.2.5\lib\windows8\System.Reactive.Core.dll">
+      <PackagePath>System.Reactive.Core.dll</PackagePath>
+      <Modified>2014-07-22T13:49:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Rx-Interfaces.2.2.5\lib\windows8\System.Reactive.Interfaces.dll">
+      <PackagePath>System.Reactive.Interfaces.dll</PackagePath>
+      <Modified>2014-07-22T13:49:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Rx-Linq.2.2.5\lib\windows8\System.Reactive.Linq.dll">
+      <PackagePath>System.Reactive.Linq.dll</PackagePath>
+      <Modified>2014-07-22T13:49:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Rx-PlatformServices.2.2.5\lib\windows8\System.Reactive.PlatformServices.dll">
+      <PackagePath>System.Reactive.PlatformServices.dll</PackagePath>
+      <Modified>2014-07-22T13:49:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Rx-XAML.2.2.5\lib\windows8\System.Reactive.Windows.Threading.dll">
+      <PackagePath>System.Reactive.Windows.Threading.dll</PackagePath>
+      <Modified>2014-07-22T13:49:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Rx-WinRT.2.2.5\lib\windows8\System.Reactive.WindowsRuntime.dll">
+      <PackagePath>System.Reactive.WindowsRuntime.dll</PackagePath>
+      <Modified>2014-07-22T13:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-06-13T21:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\betty_boubz.png">
+      <PackagePath>Assets\betty_boubz.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\clara_byne.png">
+      <PackagePath>Assets\clara_byne.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\criblage.png">
+      <PackagePath>Assets\criblage.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\dernier_recours.png">
+      <PackagePath>Assets\dernier_recours.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\detournement.png">
+      <PackagePath>Assets\detournement.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\eksa_soth.png">
+      <PackagePath>Assets\eksa_soth.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\esquive.png">
+      <PackagePath>Assets\esquive.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fantome_cra.png">
+      <PackagePath>Assets\fantome_cra.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_chercheuse.png">
+      <PackagePath>Assets\fleche_chercheuse.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_criblante.png">
+      <PackagePath>Assets\fleche_criblante.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_destructrice.png">
+      <PackagePath>Assets\fleche_destructrice.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_de_recul.png">
+      <PackagePath>Assets\fleche_de_recul.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_d_immolation.png">
+      <PackagePath>Assets\fleche_d_immolation.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_explosive.png">
+      <PackagePath>Assets\fleche_explosive.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_percante.png">
+      <PackagePath>Assets\fleche_percante.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\fleche_tempete.png">
+      <PackagePath>Assets\fleche_tempete.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\guy_yomtella.png">
+      <PackagePath>Assets\guy_yomtella.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\harcelement.png">
+      <PackagePath>Assets\harcelement.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\jems_blond.png">
+      <PackagePath>Assets\jems_blond.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\lebolas.png">
+      <PackagePath>Assets\lebolas.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\lucie_fhair.png">
+      <PackagePath>Assets\lucie_fhair.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\oeil_de_lynx.png">
+      <PackagePath>Assets\oeil_de_lynx.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\patty_ceriz.png">
+      <PackagePath>Assets\patty_ceriz.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\robin_des_landes.png">
+      <PackagePath>Assets\robin_des_landes.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\Assets\tireur_d_elite.png">
+      <PackagePath>Assets\tireur_d_elite.png</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\FodyWeavers.xml">
+      <PackagePath>FodyWeavers.xml</PackagePath>
+      <Modified>2016-11-09T23:11:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse\FodyWeavers.xml">
+      <PackagePath>KrosmagaUniverse\FodyWeavers.xml</PackagePath>
+      <Modified>2016-12-01T17:12:27.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\bin\Debug\KrosmagaUniverse.Windows.xr.xml">
+      <PackagePath>KrosmagaUniverse.Windows.xr.xml</PackagePath>
+      <Modified>2016-11-13T10:00:21.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-01-04T22:21:06.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-01-04T22:21:06.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\reactiveui-core.6.5.2\lib\Win8\ReactiveUI\Themes\generic-winrt.xaml">
+      <PackagePath>ReactiveUI\Themes\generic-winrt.xaml</PackagePath>
+      <Modified>2016-09-02T16:31:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\packages\Xamarin.Forms.2.3.2.127\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2016-09-13T08:23:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\XamarinProject\KrosmagaUniverse\KrosmagaUniverse-master\KrosmagaUniverse\KrosmagaUniverse.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-04T22:21:08.003</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

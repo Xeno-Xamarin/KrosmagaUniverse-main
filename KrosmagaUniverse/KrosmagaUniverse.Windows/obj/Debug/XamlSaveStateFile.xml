@@ -1,0 +1,30 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\dltoolkit.forms.controls.flowlistview.2.0.2\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\dltoolkit.forms.controls.flowlistview.dll" HashGuid="908b01a9-fb47-7544-69c1-291ebbc7133c" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.ffimageloading.2.2.4\lib\portable-netcore45+wpa81\ffimageloading.dll" HashGuid="360d67b8-1f80-1066-c5d2-5be82303b2b0" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.ffimageloading.forms.2.2.3\lib\portable-netcore45+wpa81\ffimageloading.forms.dll" HashGuid="24170990-b03c-f309-054c-930e10518814" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.ffimageloading.forms.2.2.3\lib\portable-netcore45+wpa81\ffimageloading.forms.winrt.dll" HashGuid="fa47422b-5716-df02-c602-3d2415bf0eaf" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.ffimageloading.2.2.4\lib\portable-netcore45+wpa81\ffimageloading.platform.dll" HashGuid="daac2709-dc67-894f-7d38-4e5ce3d1e779" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.ffimageloading.transformations.2.2.4\lib\portable-netcore45+wpa81\ffimageloading.transformations.dll" HashGuid="fc8d221e-03ab-5dde-8a35-94494fb6df81" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\freshmvvm.2.2.0\lib\portable-win+net45+wp80+win81+wpa81+monoandroid10+monotouch10+xamarin.ios10\freshioc.dll" HashGuid="5e070bf1-fd8a-dc63-d220-2771ed4f4293" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\freshmvvm.2.2.0\lib\portable-win+net45+wp80+win81+wpa81+monoandroid10+monotouch10+xamarin.ios10\freshmvvm.dll" HashGuid="ca0970a7-f319-5ba8-51ff-ba3b483b8fb9" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\propertychanged.fody.1.52.1\lib\netstandard10\propertychanged.dll" HashGuid="2a13cd5b-764a-61a3-7c33-a8dc9fbf7236" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\reactiveui-core.6.5.2\lib\win8\reactiveui.dll" HashGuid="95aafef7-30e3-4409-c1a8-996b2cbd986a" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\splat.1.4.0\lib\netcore45\splat.dll" HashGuid="811e61cb-4a66-11e2-0e86-88a0c1dbc3aa" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\sqlite.net.core-pcl.3.1.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.dll" HashGuid="2223cbf7-68d4-e5e4-e5e4-a19696ad83b6" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\sqlite.net-pcl.3.1.1\lib\windows8\sqlite.net.platform.winrt.dll" HashGuid="1bc7eaa0-e36a-f105-20d8-c57b14216cea" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\rx-core.2.2.5\lib\windows8\system.reactive.core.dll" HashGuid="ec7f411f-44b1-aa5a-2e4a-567914f585df" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\rx-interfaces.2.2.5\lib\windows8\system.reactive.interfaces.dll" HashGuid="2fd855ee-8440-f81f-a427-ceb8eb15ce8f" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\rx-linq.2.2.5\lib\windows8\system.reactive.linq.dll" HashGuid="e9d27cf9-55fa-d3f2-4919-e5eb0cb815d8" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\rx-platformservices.2.2.5\lib\windows8\system.reactive.platformservices.dll" HashGuid="12f6c441-fbed-72cf-36a7-e1ebcee7e082" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\rx-xaml.2.2.5\lib\windows8\system.reactive.windows.threading.dll" HashGuid="a6813977-9c26-d745-c1c9-ab3eb32a71a3" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\rx-winrt.2.2.5\lib\windows8\system.reactive.windowsruntime.dll" HashGuid="7b60e6ea-df93-f9b6-150b-0b8aacc55194" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="be70b7f3-05ad-48ad-bda6-3e680e6b0d12" />
+    <ReferenceAssembly PathName="d:\xamarinproject\krosmagauniverse\krosmagauniverse-main\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
